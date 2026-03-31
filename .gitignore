@@ -5,15 +5,17 @@ build/
 *.bin
 *.map
 *.lst
+*.d
 
 # Editor / IDE
 .vscode/
 *.swp
 *~
+.idea/
 
 # OS
 .DS_Store
 Thumbs.db
 
-
-
+# Claude Code
+.claude/

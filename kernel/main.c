@@ -10,7 +10,7 @@
  *   Next phase will add exception vector table, then MMU.
  * =========================================================== */
 
-#include "../bsp/drivers/uart/uart.h"
+#include "drivers/uart/uart.h"
 
 void kmain(void)
 {
